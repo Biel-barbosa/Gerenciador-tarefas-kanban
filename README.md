@@ -29,9 +29,8 @@ Um aplicativo de gerenciamento de tarefas estilo Kanban construído com Vue.js e
 - 🔐 Autenticação de usuários (registro/login)
 - 📋 Quadro Kanban com três colunas (A Fazer, Em Andamento, Concluído)
 - 🔄 Drag and drop para mover tarefas entre colunas
-- 🎨 Interface responsiva e tema claro/escuro
+- 🎨 Interface responsiva 
 - 🔍 Filtros e busca de tarefas
-- ⭐ Priorização de tarefas
 - 📅 Datas de vencimento
 - 🔔 Notificações toast para feedback do usuário
 
@@ -86,11 +85,3 @@ O projeto utiliza um sistema de design consistente com:
 - Roteamento protegido
 - Feedback visual para ações do usuário
 - Tratamento de erros consistente
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Desenvolvido com 💙 usando Vue.js e TypeScript
